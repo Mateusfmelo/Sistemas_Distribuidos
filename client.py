@@ -1,6 +1,6 @@
 import rpyc
 
-conn = rpyc.connect("localhost", 18861) # Substitua o LocalHost pelo endereço IPV4 da rede Wi-Fi
+conn = rpyc.connect("localhost", 18861) # Substitua o LocalHost pelo endereço IPV4 da rede Wi-Fi e execute
 
 a = 10
 b = 5
